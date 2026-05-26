@@ -1,1 +1,1 @@
-# IoT26-HW05
+HW. 5 Getting Started with Home Assistant on Raspberry Pi
